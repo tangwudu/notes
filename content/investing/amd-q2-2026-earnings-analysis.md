@@ -3,7 +3,7 @@ title: AMD Q2 2026 财报分析：下跌是抄底机会还是重大风险
 created: 2026-08-05
 updated: 2026-08-05
 tags: ["amd", "财报", "投资分析", "算力"]
-category: 投资与财报
+category: investing
 source: https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results
 ---
 

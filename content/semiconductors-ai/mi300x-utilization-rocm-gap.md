@@ -3,7 +3,7 @@ title: MI300X 利用率与 ROCm 差距：根因与前景
 created: 2026-08-05
 updated: 2026-08-05
 tags: ["amd", "gpu", "rocm", "cuda", "技术分析"]
-category: 半导体与AI芯片
+category: semiconductors-ai
 source: https://arxiv.org/abs/2510.27583
 ---
 

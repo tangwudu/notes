@@ -3,7 +3,7 @@ title: 计算是智能的第一性吗：哲学与工程视角
 created: 2026-08-05
 updated: 2026-08-05
 tags: ["智能", "第一性原理", "scaling-law", "哲学", "算力"]
-category: 思想与理论
+category: ideas-theory
 ---
 
 ## 核心结论
