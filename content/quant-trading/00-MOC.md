@@ -10,3 +10,4 @@ updated: 2026-08-05T12:27:36Z
 - [[orb-trend-following-strategy|日内交易策略详解 (ORB + VWAP + EMA 趋势跟踪)]] · 2026-08-05 · `量化交易`, `日内策略`, `趋势跟踪`, `ORB`, `VWAP`
 - [[slippage-audit-methodology|滑点审计方法论 (回测成本校准闭环)]] · 2026-08-05 · `量化交易`, `滑点`, `回测`, `成本模型`, `审计`
 - [[bank-stock-mean-reversion-statistics|银行股均值回归策略 (日/周涨跌幅分位 + MA20 偏离统计验证)]] · 2026-08-07 · `量化交易`, `银行股`, `均值回归`, `统计验证`, `JPM`, `分位数`, `MA20`
+- [[crisis-detection-quantitative|纯量化危机识别 (逃顶/降仓过滤器)]] · 2026-08-07 · `量化交易`, `危机识别`, `风险控制`, `逃顶`, `MA200`, `回撤`, `波动率`
